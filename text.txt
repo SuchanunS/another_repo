@@ -3,3 +3,10 @@ git commit --amend -m "ขื่อใหม่"
 git rebase -i HEAD~3(จำนวนคอมมิช)
     reword XXXXX(Code of commit no need to change) name(canrenew)
 
+cd /var
+cd . .
+cd ~
+
+ du -sh check size
+ mv file2.csv surName.csv rename
+ 

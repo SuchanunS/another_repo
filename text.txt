@@ -9,4 +9,11 @@ cd ~
 
  du -sh check size
  mv file2.csv surName.csv rename
- 
+
+top
+htop cpu check
+
+tail head 10less
+
+echo $path
+chmod 444 name.csv
